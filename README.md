@@ -1,0 +1,1 @@
+# object-defet-detection-using-opencv-python-and-machine-learning
